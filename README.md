@@ -44,6 +44,24 @@
 
 # Made By: 
 * Mike Diamond
-* Diego Restreo
+* Diego Restrepo
 * Adrian Henry
 * Johnny Williams
+
+## Application Live URL:
+
+https://dieres2010.github.io/Pokemon-App/
+
+## Application GitHub URL:
+
+https://github.com/dieres2010/Pokemon-App.git
+
+## Portfolio Application Live URL:
+
+ https://dieres2010.github.io/Portfolio/
+
+## Portfolio Application GitHub URL:
+
+https://github.com/dieres2010/Portfolio.git
+
+
